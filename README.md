@@ -47,13 +47,13 @@ The Titanic dataset is a classic example of a binary classification problem wher
 1. **Setup Environment**:
    - Create a virtual environment and install the required libraries:
      ```bash
-     pip install pandas numpy scikit-learn
+     pip install -r requirements.txt
      ```
    
 2. **Run the Script**:
    - Use the provided Python script to train the model and generate predictions:
      ```bash
-     python titanic_model.py
+     python titanic.py
      ```
 
 3. **Submission**:
